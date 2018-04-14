@@ -1,2 +1,1 @@
-Hello
-File has been modified again
+File has been modified
